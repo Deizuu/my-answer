@@ -1,1 +1,3 @@
-# my-answer
+---
+permalink: /index.html
+---
